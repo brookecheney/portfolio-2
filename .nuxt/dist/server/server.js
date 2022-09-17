@@ -436,12 +436,12 @@ __webpack_require__.d(components_namespaceObject, "AboutUs1", function() { retur
 __webpack_require__.d(components_namespaceObject, "AboutUs2", function() { return AboutUs2; });
 __webpack_require__.d(components_namespaceObject, "AboutUs3", function() { return AboutUs3; });
 __webpack_require__.d(components_namespaceObject, "AboutUs4", function() { return AboutUs4; });
-__webpack_require__.d(components_namespaceObject, "AboutUs5", function() { return AboutUs5; });
 __webpack_require__.d(components_namespaceObject, "AboutUs6", function() { return AboutUs6; });
+__webpack_require__.d(components_namespaceObject, "AboutUs5", function() { return AboutUs5; });
 __webpack_require__.d(components_namespaceObject, "BlogDetails", function() { return BlogDetails; });
 __webpack_require__.d(components_namespaceObject, "BlogGrid", function() { return BlogGrid; });
-__webpack_require__.d(components_namespaceObject, "BlogStanderd", function() { return BlogStanderd; });
 __webpack_require__.d(components_namespaceObject, "BlogListed", function() { return BlogListed; });
+__webpack_require__.d(components_namespaceObject, "BlogStanderd", function() { return BlogStanderd; });
 __webpack_require__.d(components_namespaceObject, "Blogs1", function() { return Blogs1; });
 __webpack_require__.d(components_namespaceObject, "Blogs2", function() { return Blogs2; });
 __webpack_require__.d(components_namespaceObject, "Blogs3", function() { return Blogs3; });
@@ -1297,91 +1297,91 @@ function shouldScrollToTop(route) {
 
 
 
-const _19aa065d = () => interopDefault(__webpack_require__.e(/* import() | pages/about/about-dark */ 84).then(__webpack_require__.bind(null, 143)));
+const _a99921ba = () => interopDefault(__webpack_require__.e(/* import() | pages/about/about-dark */ 84).then(__webpack_require__.bind(null, 143)));
 
-const _950b7182 = () => interopDefault(__webpack_require__.e(/* import() | pages/about/about-light */ 85).then(__webpack_require__.bind(null, 144)));
+const _551df739 = () => interopDefault(__webpack_require__.e(/* import() | pages/about/about-light */ 85).then(__webpack_require__.bind(null, 144)));
 
-const _b6f5e0ce = () => interopDefault(__webpack_require__.e(/* import() | pages/blog-details/blog-details-dark */ 86).then(__webpack_require__.bind(null, 145)));
+const _15a6b442 = () => interopDefault(__webpack_require__.e(/* import() | pages/blog-details/blog-details-dark */ 86).then(__webpack_require__.bind(null, 145)));
 
-const _f3ff34fa = () => interopDefault(__webpack_require__.e(/* import() | pages/blog-details/blog-details-light */ 87).then(__webpack_require__.bind(null, 146)));
+const _4a4b97fd = () => interopDefault(__webpack_require__.e(/* import() | pages/blog-details/blog-details-light */ 87).then(__webpack_require__.bind(null, 146)));
 
-const _1bf83855 = () => interopDefault(__webpack_require__.e(/* import() | pages/blog-grid/blog-grid-dark */ 88).then(__webpack_require__.bind(null, 147)));
+const _e2f109ca = () => interopDefault(__webpack_require__.e(/* import() | pages/blog-grid/blog-grid-dark */ 88).then(__webpack_require__.bind(null, 147)));
 
-const _061b5772 = () => interopDefault(__webpack_require__.e(/* import() | pages/blog-grid/blog-grid-light */ 89).then(__webpack_require__.bind(null, 148)));
+const _47692b7e = () => interopDefault(__webpack_require__.e(/* import() | pages/blog-grid/blog-grid-light */ 89).then(__webpack_require__.bind(null, 148)));
 
-const _452a01a5 = () => interopDefault(__webpack_require__.e(/* import() | pages/blog-list/blog-list-dark */ 90).then(__webpack_require__.bind(null, 149)));
+const _908d772a = () => interopDefault(__webpack_require__.e(/* import() | pages/blog-list/blog-list-dark */ 90).then(__webpack_require__.bind(null, 149)));
 
-const _0c0c9612 = () => interopDefault(__webpack_require__.e(/* import() | pages/blog-list/blog-list-light */ 91).then(__webpack_require__.bind(null, 150)));
+const _4d5a6a1e = () => interopDefault(__webpack_require__.e(/* import() | pages/blog-list/blog-list-light */ 91).then(__webpack_require__.bind(null, 150)));
 
-const _78a2228e = () => interopDefault(__webpack_require__.e(/* import() | pages/blog/blog-dark */ 92).then(__webpack_require__.bind(null, 151)));
+const _7fe7d0ff = () => interopDefault(__webpack_require__.e(/* import() | pages/blog/blog-dark */ 92).then(__webpack_require__.bind(null, 151)));
 
-const _4c126a63 = () => interopDefault(__webpack_require__.e(/* import() | pages/blog/blog-light */ 93).then(__webpack_require__.bind(null, 152)));
+const _16f5d0dd = () => interopDefault(__webpack_require__.e(/* import() | pages/blog/blog-light */ 93).then(__webpack_require__.bind(null, 152)));
 
-const _bfc98812 = () => interopDefault(__webpack_require__.e(/* import() | pages/contact/contact-dark */ 94).then(__webpack_require__.bind(null, 153)));
+const _0996d1bd = () => interopDefault(__webpack_require__.e(/* import() | pages/contact/contact-dark */ 94).then(__webpack_require__.bind(null, 153)));
 
-const _05a07636 = () => interopDefault(__webpack_require__.e(/* import() | pages/contact/contact-light */ 95).then(__webpack_require__.bind(null, 154)));
+const _79b23042 = () => interopDefault(__webpack_require__.e(/* import() | pages/contact/contact-light */ 95).then(__webpack_require__.bind(null, 154)));
 
-const _60fe561d = () => interopDefault(__webpack_require__.e(/* import() | pages/homepage/home1-dark */ 96).then(__webpack_require__.bind(null, 155)));
+const _b31420d2 = () => interopDefault(__webpack_require__.e(/* import() | pages/homepage/home1-dark */ 96).then(__webpack_require__.bind(null, 155)));
 
-const _58afef7f = () => interopDefault(__webpack_require__.e(/* import() | pages/homepage/home1-light */ 97).then(__webpack_require__.bind(null, 156)));
+const _7ba8f576 = () => interopDefault(__webpack_require__.e(/* import() | pages/homepage/home1-light */ 97).then(__webpack_require__.bind(null, 156)));
 
-const _5547c73c = () => interopDefault(__webpack_require__.e(/* import() | pages/homepage/home2-dark */ 98).then(__webpack_require__.bind(null, 157)));
+const _ca813e94 = () => interopDefault(__webpack_require__.e(/* import() | pages/homepage/home2-dark */ 98).then(__webpack_require__.bind(null, 157)));
 
-const _24d6bb80 = () => interopDefault(__webpack_require__.e(/* import() | pages/homepage/home2-light */ 99).then(__webpack_require__.bind(null, 158)));
+const _57103806 = () => interopDefault(__webpack_require__.e(/* import() | pages/homepage/home2-light */ 99).then(__webpack_require__.bind(null, 158)));
 
-const _4991385b = () => interopDefault(__webpack_require__.e(/* import() | pages/homepage/home3-dark */ 100).then(__webpack_require__.bind(null, 159)));
+const _e1ee5c56 = () => interopDefault(__webpack_require__.e(/* import() | pages/homepage/home3-dark */ 100).then(__webpack_require__.bind(null, 159)));
 
-const _fb0d55fe = () => interopDefault(__webpack_require__.e(/* import() | pages/homepage/home3-light */ 101).then(__webpack_require__.bind(null, 160)));
+const _28162a72 = () => interopDefault(__webpack_require__.e(/* import() | pages/homepage/home3-light */ 101).then(__webpack_require__.bind(null, 160)));
 
-const _3ddaa97a = () => interopDefault(__webpack_require__.e(/* import() | pages/homepage/home4-dark */ 102).then(__webpack_require__.bind(null, 161)));
+const _f95b7a18 = () => interopDefault(__webpack_require__.e(/* import() | pages/homepage/home4-dark */ 102).then(__webpack_require__.bind(null, 161)));
 
-const _175e07c2 = () => interopDefault(__webpack_require__.e(/* import() | pages/homepage/home4-light */ 103).then(__webpack_require__.bind(null, 162)));
+const _fe4cc4f0 = () => interopDefault(__webpack_require__.e(/* import() | pages/homepage/home4-light */ 103).then(__webpack_require__.bind(null, 162)));
 
-const _32241a99 = () => interopDefault(__webpack_require__.e(/* import() | pages/homepage/home5-dark */ 104).then(__webpack_require__.bind(null, 163)));
+const _779bb413 = () => interopDefault(__webpack_require__.e(/* import() | pages/homepage/home5-dark */ 104).then(__webpack_require__.bind(null, 163)));
 
-const _a77a8afa = () => interopDefault(__webpack_require__.e(/* import() | pages/homepage/home5-light */ 105).then(__webpack_require__.bind(null, 164)));
+const _15be5049 = () => interopDefault(__webpack_require__.e(/* import() | pages/homepage/home5-light */ 105).then(__webpack_require__.bind(null, 164)));
 
-const _266d8bb8 = () => interopDefault(__webpack_require__.e(/* import() | pages/homepage/home6-dark */ 106).then(__webpack_require__.bind(null, 165)));
+const _6be52532 = () => interopDefault(__webpack_require__.e(/* import() | pages/homepage/home6-dark */ 106).then(__webpack_require__.bind(null, 165)));
 
-const _41276d44 = () => interopDefault(__webpack_require__.e(/* import() | pages/homepage/home6-light */ 107).then(__webpack_require__.bind(null, 166)));
+const _aab9f9ec = () => interopDefault(__webpack_require__.e(/* import() | pages/homepage/home6-light */ 107).then(__webpack_require__.bind(null, 166)));
 
-const _1ab6fcd7 = () => interopDefault(__webpack_require__.e(/* import() | pages/homepage/home7-dark */ 108).then(__webpack_require__.bind(null, 167)));
+const _602e9651 = () => interopDefault(__webpack_require__.e(/* import() | pages/homepage/home7-dark */ 108).then(__webpack_require__.bind(null, 167)));
 
-const _53e7bff6 = () => interopDefault(__webpack_require__.e(/* import() | pages/homepage/home7-light */ 109).then(__webpack_require__.bind(null, 168)));
+const _3f87b5cb = () => interopDefault(__webpack_require__.e(/* import() | pages/homepage/home7-light */ 109).then(__webpack_require__.bind(null, 168)));
 
-const _0f006df6 = () => interopDefault(__webpack_require__.e(/* import() | pages/homepage/home8-dark */ 110).then(__webpack_require__.bind(null, 169)));
+const _54780770 = () => interopDefault(__webpack_require__.e(/* import() | pages/homepage/home8-dark */ 110).then(__webpack_require__.bind(null, 169)));
 
-const _6af0d2c6 = () => interopDefault(__webpack_require__.e(/* import() | pages/homepage/home8-light */ 111).then(__webpack_require__.bind(null, 170)));
+const _57272ee8 = () => interopDefault(__webpack_require__.e(/* import() | pages/homepage/home8-light */ 111).then(__webpack_require__.bind(null, 170)));
 
-const _1732c20e = () => interopDefault(__webpack_require__.e(/* import() | pages/project-details2/project-details2-dark */ 113).then(__webpack_require__.bind(null, 171)));
+const _51ce8f3f = () => interopDefault(__webpack_require__.e(/* import() | pages/project-details2/project-details2-dark */ 113).then(__webpack_require__.bind(null, 171)));
 
-const _3250c223 = () => interopDefault(__webpack_require__.e(/* import() | pages/project-details2/project-details2-light */ 114).then(__webpack_require__.bind(null, 172)));
+const _fc324ac6 = () => interopDefault(__webpack_require__.e(/* import() | pages/project-details2/project-details2-light */ 114).then(__webpack_require__.bind(null, 172)));
 
-const _315abfd9 = () => interopDefault(__webpack_require__.e(/* import() | pages/showcase/showcase-dark */ 115).then(__webpack_require__.bind(null, 173)));
+const _2a47fc1f = () => interopDefault(__webpack_require__.e(/* import() | pages/showcase/showcase-dark */ 115).then(__webpack_require__.bind(null, 173)));
 
-const _d83e857a = () => interopDefault(__webpack_require__.e(/* import() | pages/showcase/showcase-light */ 116).then(__webpack_require__.bind(null, 174)));
+const _8ec9ec86 = () => interopDefault(__webpack_require__.e(/* import() | pages/showcase/showcase-light */ 116).then(__webpack_require__.bind(null, 174)));
 
-const _6d87272d = () => interopDefault(__webpack_require__.e(/* import() | pages/showcase2/showcase2-dark */ 117).then(__webpack_require__.bind(null, 175)));
+const _3fd32c1a = () => interopDefault(__webpack_require__.e(/* import() | pages/showcase2/showcase2-dark */ 117).then(__webpack_require__.bind(null, 175)));
 
-const _457d7f22 = () => interopDefault(__webpack_require__.e(/* import() | pages/showcase2/showcase2-light */ 118).then(__webpack_require__.bind(null, 176)));
+const _86cb532e = () => interopDefault(__webpack_require__.e(/* import() | pages/showcase2/showcase2-light */ 118).then(__webpack_require__.bind(null, 176)));
 
-const _49726eab = () => interopDefault(__webpack_require__.e(/* import() | pages/showcase3/showcase3-dark */ 119).then(__webpack_require__.bind(null, 177)));
+const _87fc9d1e = () => interopDefault(__webpack_require__.e(/* import() | pages/showcase3/showcase3-dark */ 119).then(__webpack_require__.bind(null, 177)));
 
-const _7ebee8b1 = () => interopDefault(__webpack_require__.e(/* import() | pages/showcase3/showcase3-light */ 120).then(__webpack_require__.bind(null, 178)));
+const _5e17feab = () => interopDefault(__webpack_require__.e(/* import() | pages/showcase3/showcase3-light */ 120).then(__webpack_require__.bind(null, 178)));
 
-const _df649d1a = () => interopDefault(__webpack_require__.e(/* import() | pages/works/works-dark */ 121).then(__webpack_require__.bind(null, 179)));
+const _21d71a39 = () => interopDefault(__webpack_require__.e(/* import() | pages/works/works-dark */ 121).then(__webpack_require__.bind(null, 179)));
 
-const _134bfee9 = () => interopDefault(__webpack_require__.e(/* import() | pages/works/works-light */ 122).then(__webpack_require__.bind(null, 180)));
+const _9a20a23a = () => interopDefault(__webpack_require__.e(/* import() | pages/works/works-light */ 122).then(__webpack_require__.bind(null, 180)));
 
-const _3c325339 = () => interopDefault(__webpack_require__.e(/* import() | pages/works2/works2-dark */ 123).then(__webpack_require__.bind(null, 181)));
+const _ddf6bb02 = () => interopDefault(__webpack_require__.e(/* import() | pages/works2/works2-dark */ 123).then(__webpack_require__.bind(null, 181)));
 
-const _3808d43a = () => interopDefault(__webpack_require__.e(/* import() | pages/works2/works2-light */ 124).then(__webpack_require__.bind(null, 182)));
+const _29732f5d = () => interopDefault(__webpack_require__.e(/* import() | pages/works2/works2-light */ 124).then(__webpack_require__.bind(null, 182)));
 
-const _fdb4bb4e = () => interopDefault(__webpack_require__.e(/* import() | pages/works3/works3-dark */ 125).then(__webpack_require__.bind(null, 183)));
+const _54101cc2 = () => interopDefault(__webpack_require__.e(/* import() | pages/works3/works3-dark */ 125).then(__webpack_require__.bind(null, 183)));
 
-const _3d722ac3 = () => interopDefault(__webpack_require__.e(/* import() | pages/works3/works3-light */ 126).then(__webpack_require__.bind(null, 184)));
+const _fa2c7786 = () => interopDefault(__webpack_require__.e(/* import() | pages/works3/works3-light */ 126).then(__webpack_require__.bind(null, 184)));
 
-const _78e7423d = () => interopDefault(__webpack_require__.e(/* import() | pages/index */ 112).then(__webpack_require__.bind(null, 185)));
+const _68679937 = () => interopDefault(__webpack_require__.e(/* import() | pages/index */ 112).then(__webpack_require__.bind(null, 185)));
 
 const emptyFn = () => {};
 
@@ -1394,175 +1394,175 @@ const routerOptions = {
   scrollBehavior: router_scrollBehavior,
   routes: [{
     path: "/about/about-dark",
-    component: _19aa065d,
+    component: _a99921ba,
     name: "about-about-dark"
   }, {
     path: "/about/about-light",
-    component: _950b7182,
+    component: _551df739,
     name: "about-about-light"
   }, {
     path: "/blog-details/blog-details-dark",
-    component: _b6f5e0ce,
+    component: _15a6b442,
     name: "blog-details-blog-details-dark"
   }, {
     path: "/blog-details/blog-details-light",
-    component: _f3ff34fa,
+    component: _4a4b97fd,
     name: "blog-details-blog-details-light"
   }, {
     path: "/blog-grid/blog-grid-dark",
-    component: _1bf83855,
+    component: _e2f109ca,
     name: "blog-grid-blog-grid-dark"
   }, {
     path: "/blog-grid/blog-grid-light",
-    component: _061b5772,
+    component: _47692b7e,
     name: "blog-grid-blog-grid-light"
   }, {
     path: "/blog-list/blog-list-dark",
-    component: _452a01a5,
+    component: _908d772a,
     name: "blog-list-blog-list-dark"
   }, {
     path: "/blog-list/blog-list-light",
-    component: _0c0c9612,
+    component: _4d5a6a1e,
     name: "blog-list-blog-list-light"
   }, {
     path: "/blog/blog-dark",
-    component: _78a2228e,
+    component: _7fe7d0ff,
     name: "blog-blog-dark"
   }, {
     path: "/blog/blog-light",
-    component: _4c126a63,
+    component: _16f5d0dd,
     name: "blog-blog-light"
   }, {
     path: "/contact/contact-dark",
-    component: _bfc98812,
+    component: _0996d1bd,
     name: "contact-contact-dark"
   }, {
     path: "/contact/contact-light",
-    component: _05a07636,
+    component: _79b23042,
     name: "contact-contact-light"
   }, {
     path: "/homepage/home1-dark",
-    component: _60fe561d,
+    component: _b31420d2,
     name: "homepage-home1-dark"
   }, {
     path: "/homepage/home1-light",
-    component: _58afef7f,
+    component: _7ba8f576,
     name: "homepage-home1-light"
   }, {
     path: "/homepage/home2-dark",
-    component: _5547c73c,
+    component: _ca813e94,
     name: "homepage-home2-dark"
   }, {
     path: "/homepage/home2-light",
-    component: _24d6bb80,
+    component: _57103806,
     name: "homepage-home2-light"
   }, {
     path: "/homepage/home3-dark",
-    component: _4991385b,
+    component: _e1ee5c56,
     name: "homepage-home3-dark"
   }, {
     path: "/homepage/home3-light",
-    component: _fb0d55fe,
+    component: _28162a72,
     name: "homepage-home3-light"
   }, {
     path: "/homepage/home4-dark",
-    component: _3ddaa97a,
+    component: _f95b7a18,
     name: "homepage-home4-dark"
   }, {
     path: "/homepage/home4-light",
-    component: _175e07c2,
+    component: _fe4cc4f0,
     name: "homepage-home4-light"
   }, {
     path: "/homepage/home5-dark",
-    component: _32241a99,
+    component: _779bb413,
     name: "homepage-home5-dark"
   }, {
     path: "/homepage/home5-light",
-    component: _a77a8afa,
+    component: _15be5049,
     name: "homepage-home5-light"
   }, {
     path: "/homepage/home6-dark",
-    component: _266d8bb8,
+    component: _6be52532,
     name: "homepage-home6-dark"
   }, {
     path: "/homepage/home6-light",
-    component: _41276d44,
+    component: _aab9f9ec,
     name: "homepage-home6-light"
   }, {
     path: "/homepage/home7-dark",
-    component: _1ab6fcd7,
+    component: _602e9651,
     name: "homepage-home7-dark"
   }, {
     path: "/homepage/home7-light",
-    component: _53e7bff6,
+    component: _3f87b5cb,
     name: "homepage-home7-light"
   }, {
     path: "/homepage/home8-dark",
-    component: _0f006df6,
+    component: _54780770,
     name: "homepage-home8-dark"
   }, {
     path: "/homepage/home8-light",
-    component: _6af0d2c6,
+    component: _57272ee8,
     name: "homepage-home8-light"
   }, {
     path: "/project-details2/project-details2-dark",
-    component: _1732c20e,
+    component: _51ce8f3f,
     name: "project-details2-project-details2-dark"
   }, {
     path: "/project-details2/project-details2-light",
-    component: _3250c223,
+    component: _fc324ac6,
     name: "project-details2-project-details2-light"
   }, {
     path: "/showcase/showcase-dark",
-    component: _315abfd9,
+    component: _2a47fc1f,
     name: "showcase-showcase-dark"
   }, {
     path: "/showcase/showcase-light",
-    component: _d83e857a,
+    component: _8ec9ec86,
     name: "showcase-showcase-light"
   }, {
     path: "/showcase2/showcase2-dark",
-    component: _6d87272d,
+    component: _3fd32c1a,
     name: "showcase2-showcase2-dark"
   }, {
     path: "/showcase2/showcase2-light",
-    component: _457d7f22,
+    component: _86cb532e,
     name: "showcase2-showcase2-light"
   }, {
     path: "/showcase3/showcase3-dark",
-    component: _49726eab,
+    component: _87fc9d1e,
     name: "showcase3-showcase3-dark"
   }, {
     path: "/showcase3/showcase3-light",
-    component: _7ebee8b1,
+    component: _5e17feab,
     name: "showcase3-showcase3-light"
   }, {
     path: "/works/works-dark",
-    component: _df649d1a,
+    component: _21d71a39,
     name: "works-works-dark"
   }, {
     path: "/works/works-light",
-    component: _134bfee9,
+    component: _9a20a23a,
     name: "works-works-light"
   }, {
     path: "/works2/works2-dark",
-    component: _3c325339,
+    component: _ddf6bb02,
     name: "works2-works2-dark"
   }, {
     path: "/works2/works2-light",
-    component: _3808d43a,
+    component: _29732f5d,
     name: "works2-works2-light"
   }, {
     path: "/works3/works3-dark",
-    component: _fdb4bb4e,
+    component: _54101cc2,
     name: "works3-works3-dark"
   }, {
     path: "/works3/works3-light",
-    component: _3d722ac3,
+    component: _fa2c7786,
     name: "works3-works3-light"
   }, {
     path: "/",
-    component: _78e7423d,
+    component: _68679937,
     name: "index"
   }],
   fallback: false
@@ -1760,7 +1760,7 @@ var nuxt_error_component = Object(componentNormalizer["a" /* default */])(
   false,
   injectStyles,
   null,
-  "6c341036"
+  "28f30982"
   
 )
 
@@ -2064,7 +2064,7 @@ var nuxt_loading_component = Object(componentNormalizer["a" /* default */])(
   false,
   nuxt_loading_injectStyles,
   null,
-  "b470502c"
+  "2eadae36"
   
 )
 
@@ -2290,12 +2290,12 @@ const AboutUs1 = () => __webpack_require__.e(/* import() | components/about-us1 
 const AboutUs2 = () => __webpack_require__.e(/* import() | components/about-us2 */ 3).then(__webpack_require__.bind(null, 102)).then(c => wrapFunctional(c.default || c));
 const AboutUs3 = () => __webpack_require__.e(/* import() | components/about-us3 */ 4).then(__webpack_require__.bind(null, 105)).then(c => wrapFunctional(c.default || c));
 const AboutUs4 = () => __webpack_require__.e(/* import() | components/about-us4 */ 5).then(__webpack_require__.bind(null, 109)).then(c => wrapFunctional(c.default || c));
-const AboutUs5 = () => __webpack_require__.e(/* import() | components/about-us5 */ 6).then(__webpack_require__.bind(null, 81)).then(c => wrapFunctional(c.default || c));
 const AboutUs6 = () => __webpack_require__.e(/* import() | components/about-us6 */ 7).then(__webpack_require__.bind(null, 116)).then(c => wrapFunctional(c.default || c));
+const AboutUs5 = () => __webpack_require__.e(/* import() | components/about-us5 */ 6).then(__webpack_require__.bind(null, 81)).then(c => wrapFunctional(c.default || c));
 const BlogDetails = () => __webpack_require__.e(/* import() | components/blog-details */ 8).then(__webpack_require__.bind(null, 85)).then(c => wrapFunctional(c.default || c));
 const BlogGrid = () => __webpack_require__.e(/* import() | components/blog-grid */ 9).then(__webpack_require__.bind(null, 86)).then(c => wrapFunctional(c.default || c));
-const BlogStanderd = () => __webpack_require__.e(/* import() | components/blog-standerd */ 11).then(__webpack_require__.bind(null, 88)).then(c => wrapFunctional(c.default || c));
 const BlogListed = () => __webpack_require__.e(/* import() | components/blog-listed */ 10).then(__webpack_require__.bind(null, 87)).then(c => wrapFunctional(c.default || c));
+const BlogStanderd = () => __webpack_require__.e(/* import() | components/blog-standerd */ 11).then(__webpack_require__.bind(null, 88)).then(c => wrapFunctional(c.default || c));
 const Blogs1 = () => __webpack_require__.e(/* import() | components/blogs1 */ 12).then(__webpack_require__.bind(null, 93)).then(c => wrapFunctional(c.default || c));
 const Blogs2 = () => __webpack_require__.e(/* import() | components/blogs2 */ 13).then(__webpack_require__.bind(null, 49)).then(c => wrapFunctional(c.default || c));
 const Blogs3 = () => __webpack_require__.e(/* import() | components/blogs3 */ 14).then(__webpack_require__.bind(null, 101)).then(c => wrapFunctional(c.default || c));

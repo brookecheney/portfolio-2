@@ -14,11 +14,11 @@
   "AboutUs4": {
     "description": "Auto imported from components/About-us4/index.vue"
   },
-  "AboutUs5": {
-    "description": "Auto imported from components/About-us5/index.vue"
-  },
   "AboutUs6": {
     "description": "Auto imported from components/About-us6/index.vue"
+  },
+  "AboutUs5": {
+    "description": "Auto imported from components/About-us5/index.vue"
   },
   "BlogDetails": {
     "description": "Auto imported from components/Blog-details/index.vue"
@@ -26,11 +26,11 @@
   "BlogGrid": {
     "description": "Auto imported from components/Blog-grid/index.vue"
   },
-  "BlogStanderd": {
-    "description": "Auto imported from components/Blog-standerd/index.vue"
-  },
   "BlogListed": {
     "description": "Auto imported from components/Blog-listed/index.vue"
+  },
+  "BlogStanderd": {
+    "description": "Auto imported from components/Blog-standerd/index.vue"
   },
   "Blogs1": {
     "description": "Auto imported from components/Blogs1/index.vue"
