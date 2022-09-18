@@ -16,7 +16,7 @@ export default {
       {
         hid: "description",
         name: "description",
-        content: "vie - Onepage Multi-Purpose Vue Nuxtjs Template",
+        content: "Brooklyne Cheney",
       },
       { name: "format-detection", content: "telephone=no" },
     ],

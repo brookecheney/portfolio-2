@@ -10,7 +10,7 @@ export default {
   layout: "light",
   head() {
     return {
-      titleTemplate: '%s - Showcase 2 Light'
+      titleTemplate: 'Brooklyne Cheney'
     };
   },
 };
