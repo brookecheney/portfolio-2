@@ -2,14 +2,14 @@
   "AboutIntro": {
     "description": "Auto imported from components/About-intro/index.vue"
   },
+  "AboutUs2": {
+    "description": "Auto imported from components/About-us2/index.vue"
+  },
   "AboutUs1": {
     "description": "Auto imported from components/About-us1/index.vue"
   },
   "AboutUs3": {
     "description": "Auto imported from components/About-us3/index.vue"
-  },
-  "AboutUs2": {
-    "description": "Auto imported from components/About-us2/index.vue"
   },
   "AboutUs4": {
     "description": "Auto imported from components/About-us4/index.vue"
@@ -26,11 +26,11 @@
   "BlogGrid": {
     "description": "Auto imported from components/Blog-grid/index.vue"
   },
-  "BlogStanderd": {
-    "description": "Auto imported from components/Blog-standerd/index.vue"
-  },
   "BlogListed": {
     "description": "Auto imported from components/Blog-listed/index.vue"
+  },
+  "BlogStanderd": {
+    "description": "Auto imported from components/Blog-standerd/index.vue"
   },
   "Blogs1": {
     "description": "Auto imported from components/Blogs1/index.vue"
@@ -38,11 +38,11 @@
   "Blogs2": {
     "description": "Auto imported from components/Blogs2/index.vue"
   },
-  "Blogs4": {
-    "description": "Auto imported from components/Blogs4/index.vue"
-  },
   "Blogs3": {
     "description": "Auto imported from components/Blogs3/index.vue"
+  },
+  "Blogs4": {
+    "description": "Auto imported from components/Blogs4/index.vue"
   },
   "CallToAction": {
     "description": "Auto imported from components/Call-to-action/index.vue"
@@ -98,17 +98,17 @@
   "Intro4": {
     "description": "Auto imported from components/Intro4/index.vue"
   },
-  "Intro5": {
-    "description": "Auto imported from components/Intro5/index.vue"
-  },
   "LatestNews": {
     "description": "Auto imported from components/Latest-news/index.vue"
   },
-  "MinimalArea1": {
-    "description": "Auto imported from components/Minimal-area1/index.vue"
+  "Intro5": {
+    "description": "Auto imported from components/Intro5/index.vue"
   },
   "Loading": {
     "description": "Auto imported from components/Loading/index.vue"
+  },
+  "MinimalArea1": {
+    "description": "Auto imported from components/Minimal-area1/index.vue"
   },
   "MinimalArea2": {
     "description": "Auto imported from components/Minimal-area2/index.vue"
@@ -122,11 +122,11 @@
   "Navbar": {
     "description": "Auto imported from components/Navbar/index.vue"
   },
-  "NavbarFullMenu": {
-    "description": "Auto imported from components/Navbar-full-menu/index.vue"
-  },
   "NextProject": {
     "description": "Auto imported from components/Next-project/index.vue"
+  },
+  "NavbarFullMenu": {
+    "description": "Auto imported from components/Navbar-full-menu/index.vue"
   },
   "PageHeader": {
     "description": "Auto imported from components/Page-header/index.vue"
@@ -143,11 +143,11 @@
   "ProjectDetails2Header": {
     "description": "Auto imported from components/Project-details2-header/index.vue"
   },
-  "ProjectGallery": {
-    "description": "Auto imported from components/Project-gallery/index.vue"
-  },
   "ProjectIntroduction": {
     "description": "Auto imported from components/Project-introduction/index.vue"
+  },
+  "ProjectGallery": {
+    "description": "Auto imported from components/Project-gallery/index.vue"
   },
   "ProjectVideo": {
     "description": "Auto imported from components/Project-video/index.vue"

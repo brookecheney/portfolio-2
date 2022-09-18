@@ -3,8 +3,7 @@
     <Navbar ref="navbar" />
     <PagesHeader imageLink="/img/slid/about.jpg">
       <template v-slot:title>
-        Our dedicated team of creatives is bursting with talent, experience and
-        passion for what we do.
+        A Dedicated Creative Software Developer       
       </template>
     </PagesHeader>
     <AboutIntro />

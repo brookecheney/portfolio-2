@@ -3,7 +3,7 @@
     <Navbar ref="navbar" theme="light" />
     <PagesHeader imageLink="/img/slid/about.jpg">
       <template v-slot:title>
-        Results-driven, dynamic, motivated and multilingual front-end software/web developer!
+        A Dedicated Creative Software Developer 
       </template>
     </PagesHeader>
     <AboutIntro />
