@@ -3,8 +3,7 @@
     <Navbar ref="navbar" theme="light" />
     <PagesHeader imageLink="/img/slid/about.jpg">
       <template v-slot:title>
-        Our dedicated team of creatives is bursting with talent, experience and
-        passion for what we do.
+        Results-driven, dynamic, motivated and multilingual front-end software/web developer!
       </template>
     </PagesHeader>
     <AboutIntro />
