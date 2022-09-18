@@ -5,20 +5,20 @@
   "AboutUs1": {
     "description": "Auto imported from components/About-us1/index.vue"
   },
-  "AboutUs2": {
-    "description": "Auto imported from components/About-us2/index.vue"
-  },
   "AboutUs3": {
     "description": "Auto imported from components/About-us3/index.vue"
+  },
+  "AboutUs2": {
+    "description": "Auto imported from components/About-us2/index.vue"
   },
   "AboutUs4": {
     "description": "Auto imported from components/About-us4/index.vue"
   },
-  "AboutUs6": {
-    "description": "Auto imported from components/About-us6/index.vue"
-  },
   "AboutUs5": {
     "description": "Auto imported from components/About-us5/index.vue"
+  },
+  "AboutUs6": {
+    "description": "Auto imported from components/About-us6/index.vue"
   },
   "BlogDetails": {
     "description": "Auto imported from components/Blog-details/index.vue"
@@ -26,11 +26,11 @@
   "BlogGrid": {
     "description": "Auto imported from components/Blog-grid/index.vue"
   },
-  "BlogListed": {
-    "description": "Auto imported from components/Blog-listed/index.vue"
-  },
   "BlogStanderd": {
     "description": "Auto imported from components/Blog-standerd/index.vue"
+  },
+  "BlogListed": {
+    "description": "Auto imported from components/Blog-listed/index.vue"
   },
   "Blogs1": {
     "description": "Auto imported from components/Blogs1/index.vue"
@@ -38,11 +38,11 @@
   "Blogs2": {
     "description": "Auto imported from components/Blogs2/index.vue"
   },
-  "Blogs3": {
-    "description": "Auto imported from components/Blogs3/index.vue"
-  },
   "Blogs4": {
     "description": "Auto imported from components/Blogs4/index.vue"
+  },
+  "Blogs3": {
+    "description": "Auto imported from components/Blogs3/index.vue"
   },
   "CallToAction": {
     "description": "Auto imported from components/Call-to-action/index.vue"
@@ -104,11 +104,11 @@
   "LatestNews": {
     "description": "Auto imported from components/Latest-news/index.vue"
   },
-  "Loading": {
-    "description": "Auto imported from components/Loading/index.vue"
-  },
   "MinimalArea1": {
     "description": "Auto imported from components/Minimal-area1/index.vue"
+  },
+  "Loading": {
+    "description": "Auto imported from components/Loading/index.vue"
   },
   "MinimalArea2": {
     "description": "Auto imported from components/Minimal-area2/index.vue"

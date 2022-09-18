@@ -7,20 +7,20 @@
   },
   {
     "id": 2,
-    "title": { "first": "Quote of", "second": "the Day!" },
-    "image": "/img/portfolio/full/2.jpg",
+    "title": { "first": "Jess's", "second": "Clean & Healthy Eats!" },
+    "image": "/img/portfolio/full/2.png",
     "sub": "Design"
   },
   {
     "id": 3,
-    "title": { "first": "Starry", "second": "Night" },
-    "image": "/img/portfolio/full/3.jpg",
+    "title": { "first": "Coming", "second": "Soon" },
+    "image": "/img/portfolio/full/3.png",
     "sub": "Design"
   },
   {
     "id": 4,
-    "title": { "first": "Mp3", "second": "player" },
-    "image": "/img/portfolio/full/4.jpg",
+    "title": { "first": "Coming", "second": "Soon" },
+    "image": "/img/portfolio/full/4.png",
     "sub": "Design"
   }
 ]
