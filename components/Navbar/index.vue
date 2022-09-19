@@ -78,67 +78,10 @@
           <li class="nav-item">
             <NuxtLink class="nav-link" to="/about/about-dark"> About </NuxtLink>
           </li>
-          <li class="nav-item dropdown" @click="handleDropdown">
-            <span
-              class="nav-link dropdown-toggle"
-              data-toggle="dropdown"
-              role="button"
-              aria-haspopup="true"
-              aria-expanded="false"
-            >
-              Works
-            </span>
-            <div class="dropdown-menu">
-              <NuxtLink class="dropdown-item" to="/showcase/showcase-dark">
-                Showcase Parallax
-              </NuxtLink>
-              <NuxtLink class="dropdown-item" to="/showcase3/showcase3-dark">
-                Showcase Carousel
-              </NuxtLink>
-              <NuxtLink class="dropdown-item" to="/showcase2/showcase2-dark">
-                Showcase Circle
-              </NuxtLink>
-              <NuxtLink class="dropdown-item" to="/works/works-dark">
-                Portfolio Masonry
-              </NuxtLink>
-              <NuxtLink class="dropdown-item" to="/works2/works2-dark">
-                Portfolio Filtering
-              </NuxtLink>
-              <NuxtLink class="dropdown-item" to="/works3/works3-dark">
-                Portfolio Gallery
-              </NuxtLink>
-            </div>
-          </li>
-          <li class="nav-item dropdown" @click="handleDropdown">
-            <span
-              class="nav-link dropdown-toggle"
-              data-toggle="dropdown"
-              role="button"
-              aria-haspopup="true"
-              aria-expanded="false"
-            >
-              Blog
-            </span>
-            <div class="dropdown-menu">
-              <NuxtLink class="dropdown-item" to="/blog/blog-dark">
-                Blog Standerd
-              </NuxtLink>
-              <NuxtLink class="dropdown-item" to="/blog-list/blog-list-dark">
-                Blog List
-              </NuxtLink>
-              <NuxtLink class="dropdown-item" to="/blog-grid/blog-grid-dark">
-                Blog Grid
-              </NuxtLink>
-              <NuxtLink
-                class="dropdown-item"
-                to="/blog-details/blog-details-dark"
-              >
-                Blog Details
-              </NuxtLink>
-            </div>
-          </li>
+       
+        
           <li class="nav-item">
-            <NuxtLink class="nav-link" to="/contact/contact-dark">
+            <NuxtLink class="nav-link" to="/contact/contact-light">
               Contact
             </NuxtLink>
           </li>

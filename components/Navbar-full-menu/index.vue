@@ -107,7 +107,7 @@
                 </li>
                 <li>
                   <div class="o-hidden">
-                    <NuxtLink class="link" to="/about/about-dark">
+                    <NuxtLink class="link" to="/about/about-light">
                       <span class="nm">02.</span>About Us
                     </NuxtLink>
                   </div>
@@ -115,7 +115,7 @@
     
                 <li>
                   <div class="o-hidden">
-                    <NuxtLink class="link" to="/contact/contact-dark">
+                    <NuxtLink class="link" to="/contact/contact-light">
                       <span class="nm">05.</span>Contact
                     </NuxtLink>
                   </div>
