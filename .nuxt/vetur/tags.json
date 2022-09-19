@@ -2,17 +2,17 @@
   "AboutIntro": {
     "description": "Auto imported from components/About-intro/index.vue"
   },
-  "AboutUs2": {
-    "description": "Auto imported from components/About-us2/index.vue"
-  },
   "AboutUs1": {
     "description": "Auto imported from components/About-us1/index.vue"
   },
-  "AboutUs3": {
-    "description": "Auto imported from components/About-us3/index.vue"
+  "AboutUs2": {
+    "description": "Auto imported from components/About-us2/index.vue"
   },
   "AboutUs4": {
     "description": "Auto imported from components/About-us4/index.vue"
+  },
+  "AboutUs3": {
+    "description": "Auto imported from components/About-us3/index.vue"
   },
   "AboutUs5": {
     "description": "Auto imported from components/About-us5/index.vue"
@@ -98,11 +98,11 @@
   "Intro4": {
     "description": "Auto imported from components/Intro4/index.vue"
   },
-  "LatestNews": {
-    "description": "Auto imported from components/Latest-news/index.vue"
-  },
   "Intro5": {
     "description": "Auto imported from components/Intro5/index.vue"
+  },
+  "LatestNews": {
+    "description": "Auto imported from components/Latest-news/index.vue"
   },
   "Loading": {
     "description": "Auto imported from components/Loading/index.vue"
@@ -122,11 +122,11 @@
   "Navbar": {
     "description": "Auto imported from components/Navbar/index.vue"
   },
-  "NextProject": {
-    "description": "Auto imported from components/Next-project/index.vue"
-  },
   "NavbarFullMenu": {
     "description": "Auto imported from components/Navbar-full-menu/index.vue"
+  },
+  "NextProject": {
+    "description": "Auto imported from components/Next-project/index.vue"
   },
   "PageHeader": {
     "description": "Auto imported from components/Page-header/index.vue"
@@ -143,11 +143,11 @@
   "ProjectDetails2Header": {
     "description": "Auto imported from components/Project-details2-header/index.vue"
   },
-  "ProjectIntroduction": {
-    "description": "Auto imported from components/Project-introduction/index.vue"
-  },
   "ProjectGallery": {
     "description": "Auto imported from components/Project-gallery/index.vue"
+  },
+  "ProjectIntroduction": {
+    "description": "Auto imported from components/Project-introduction/index.vue"
   },
   "ProjectVideo": {
     "description": "Auto imported from components/Project-video/index.vue"
