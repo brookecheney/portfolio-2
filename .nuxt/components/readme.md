@@ -6,11 +6,11 @@ You can directly use them in pages and other components without the need to impo
 
 **Tip:** If a component is conditionally rendered with `v-if` and is big, it is better to use `Lazy` or `lazy-` prefix to lazy load.
 
-- `<AboutIntro>` | `<about-intro>` (components/About-intro/index.vue)
 - `<AboutUs1>` | `<about-us1>` (components/About-us1/index.vue)
+- `<AboutIntro>` | `<about-intro>` (components/About-intro/index.vue)
 - `<AboutUs2>` | `<about-us2>` (components/About-us2/index.vue)
-- `<AboutUs4>` | `<about-us4>` (components/About-us4/index.vue)
 - `<AboutUs3>` | `<about-us3>` (components/About-us3/index.vue)
+- `<AboutUs4>` | `<about-us4>` (components/About-us4/index.vue)
 - `<AboutUs5>` | `<about-us5>` (components/About-us5/index.vue)
 - `<AboutUs6>` | `<about-us6>` (components/About-us6/index.vue)
 - `<BlogDetails>` | `<blog-details>` (components/Blog-details/index.vue)
@@ -62,8 +62,8 @@ You can directly use them in pages and other components without the need to impo
 - `<Services1>` | `<services1>` (components/Services1/index.vue)
 - `<Services2>` | `<services2>` (components/Services2/index.vue)
 - `<Services3>` | `<services3>` (components/Services3/index.vue)
-- `<Services4>` | `<services4>` (components/Services4/index.vue)
 - `<Services5>` | `<services5>` (components/Services5/index.vue)
+- `<Services4>` | `<services4>` (components/Services4/index.vue)
 - `<Services6>` | `<services6>` (components/Services6/index.vue)
 - `<ShowcasesFullScreen>` | `<showcases-full-screen>` (components/Showcases-full-screen/index.vue)
 - `<ShowcasesGrid>` | `<showcases-grid>` (components/Showcases-grid/index.vue)
