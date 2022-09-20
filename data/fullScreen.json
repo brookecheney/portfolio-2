@@ -3,12 +3,14 @@
     "id": 1,
     "title": { "first": "Brooklyne's", "second": "Bows" },
     "image": "/img/portfolio/full/1.png",
+    "url": "https:/brookiesbows.netlify.app/",
     "sub": "Design"
   },
   {
     "id": 2,
     "title": { "first": "Jess's Clean", "second": "& Healthy Eats" },
     "image": "/img/portfolio/full/2.png",
+
     "sub": "Design"
   },
   {

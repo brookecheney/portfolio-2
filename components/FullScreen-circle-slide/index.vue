@@ -21,7 +21,7 @@
               <div class="caption ontop valign">
                 <div class="o-hidden">
                   <h1 data-swiper-parallax="-2000">
-                    <a href="https://brookiesbows.netlify.app/">
+                    <a :href="slide.url">
                       <div class="stroke">{{ slide.title.first }}</div>
                       <span>{{ slide.title.second }}</span>
                     </a>
