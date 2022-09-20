@@ -1,21 +1,21 @@
 {
-  "AboutUs1": {
-    "description": "Auto imported from components/About-us1/index.vue"
-  },
   "AboutIntro": {
     "description": "Auto imported from components/About-intro/index.vue"
   },
   "AboutUs2": {
     "description": "Auto imported from components/About-us2/index.vue"
   },
-  "AboutUs3": {
-    "description": "Auto imported from components/About-us3/index.vue"
-  },
   "AboutUs4": {
     "description": "Auto imported from components/About-us4/index.vue"
   },
+  "AboutUs3": {
+    "description": "Auto imported from components/About-us3/index.vue"
+  },
   "AboutUs5": {
     "description": "Auto imported from components/About-us5/index.vue"
+  },
+  "AboutUs1": {
+    "description": "Auto imported from components/About-us1/index.vue"
   },
   "AboutUs6": {
     "description": "Auto imported from components/About-us6/index.vue"
@@ -26,14 +26,14 @@
   "BlogGrid": {
     "description": "Auto imported from components/Blog-grid/index.vue"
   },
-  "BlogListed": {
-    "description": "Auto imported from components/Blog-listed/index.vue"
-  },
   "BlogStanderd": {
     "description": "Auto imported from components/Blog-standerd/index.vue"
   },
   "Blogs1": {
     "description": "Auto imported from components/Blogs1/index.vue"
+  },
+  "BlogListed": {
+    "description": "Auto imported from components/Blog-listed/index.vue"
   },
   "Blogs2": {
     "description": "Auto imported from components/Blogs2/index.vue"
@@ -107,9 +107,6 @@
   "Loading": {
     "description": "Auto imported from components/Loading/index.vue"
   },
-  "MinimalArea1": {
-    "description": "Auto imported from components/Minimal-area1/index.vue"
-  },
   "MinimalArea2": {
     "description": "Auto imported from components/Minimal-area2/index.vue"
   },
@@ -119,14 +116,17 @@
   "MouseCursor": {
     "description": "Auto imported from components/Mouse-cursor/index.vue"
   },
+  "MinimalArea1": {
+    "description": "Auto imported from components/Minimal-area1/index.vue"
+  },
   "Navbar": {
     "description": "Auto imported from components/Navbar/index.vue"
   },
-  "NavbarFullMenu": {
-    "description": "Auto imported from components/Navbar-full-menu/index.vue"
-  },
   "NextProject": {
     "description": "Auto imported from components/Next-project/index.vue"
+  },
+  "NavbarFullMenu": {
+    "description": "Auto imported from components/Navbar-full-menu/index.vue"
   },
   "PageHeader": {
     "description": "Auto imported from components/Page-header/index.vue"
@@ -167,11 +167,11 @@
   "Services3": {
     "description": "Auto imported from components/Services3/index.vue"
   },
-  "Services5": {
-    "description": "Auto imported from components/Services5/index.vue"
-  },
   "Services4": {
     "description": "Auto imported from components/Services4/index.vue"
+  },
+  "Services5": {
+    "description": "Auto imported from components/Services5/index.vue"
   },
   "Services6": {
     "description": "Auto imported from components/Services6/index.vue"
@@ -221,11 +221,11 @@
   "Works3": {
     "description": "Auto imported from components/Works3/index.vue"
   },
-  "Works4": {
-    "description": "Auto imported from components/Works4/index.vue"
-  },
   "Works5": {
     "description": "Auto imported from components/Works5/index.vue"
+  },
+  "Works4": {
+    "description": "Auto imported from components/Works4/index.vue"
   },
   "Works6": {
     "description": "Auto imported from components/Works6/index.vue"
