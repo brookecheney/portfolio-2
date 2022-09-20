@@ -1,36 +1,15 @@
 <template>
-  <nav
-    :ref="nr"
-    class="navbar navbar-expand-lg change"
-    :class="theme === 'light' ? 'light' : ''"
-  >
+  <nav :ref="nr" class="navbar navbar-expand-lg change" :class="theme === 'light' ? 'light' : ''">
     <div class="container">
       <NuxtLink to="/" class="logo">
-          <img
-            ref="lr"
-            src="/img/logo-dark.png"
-            v-if="theme === 'light'"
-            alt="logo"
-          />
-          <img
-            ref="lr"
-            src="/img/logo-light.png"
-            v-else-if="theme === 'themeD'"
-            alt="logo"
-          />
-          <img ref="lr" src="/img/logo-light.png" v-else alt="logo" />
+        <img ref="lr" src="/img/logo-dark.png" v-if="theme === 'light'" alt="logo" />
+        <img ref="lr" src="/img/logo-light.png" v-else-if="theme === 'themeD'" alt="logo" />
+        <img ref="lr" src="/img/logo-light.png" v-else alt="logo" />
       </NuxtLink>
 
-      <button
-        class="navbar-toggler"
-        type="button"
-        @click="handleMobileDropdown"
-        data-toggle="collapse"
-        data-target="#navbarSupportedContent"
-        aria-controls="navbarSupportedContent"
-        aria-expanded="false"
-        aria-label="Toggle navigation"
-      >
+      <button class="navbar-toggler" type="button" @click="handleMobileDropdown" data-toggle="collapse"
+        data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+        aria-label="Toggle navigation">
         <span class="icon-bar">
           <i class="fas fa-bars"></i>
         </span>
@@ -38,14 +17,9 @@
 
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav ml-auto">
-          <li class="nav-item dropdown" @click="handleDropdown">
-            <span
-              class="nav-link dropdown-toggle"
-              data-toggle="dropdown"
-              role="button"
-              aria-haspopup="true"
-              aria-expanded="false"
-            >
+          <!-- <li class="nav-item dropdown" @click="handleDropdown">
+            <span class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+              aria-expanded="false">
               Home
             </span>
             <div class="dropdown-menu">
@@ -74,12 +48,15 @@
                 Architecture
               </NuxtLink>
             </div>
+          </li> -->
+          <li class="nav-item">
+            <NuxtLink class="nav-link" to="/"> Home </NuxtLink>
           </li>
           <li class="nav-item">
-            <NuxtLink class="nav-link" to="/about/about-dark"> About </NuxtLink>
+            <NuxtLink class="nav-link" to="/homepage/home4-dark"> About </NuxtLink>
           </li>
-       
-        
+
+
           <li class="nav-item">
             <NuxtLink class="nav-link" to="/contact/contact-light">
               Contact
@@ -127,4 +104,5 @@ export default {
 </script>
 
 <style scoped>
+
 </style>

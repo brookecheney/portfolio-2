@@ -29,10 +29,10 @@
           <div class="col-lg-9 col-md-8">
             <div class="menu-links">
               <ul class="main-menu">
-                <li>
+                <!-- <li>
                   <div class="o-hidden">
                     <span class="link dmenu">
-                      <span class="nm">01.</span>Home
+                      <span class="nm"></span>Home
                       <i class="fas fa-angle-right"></i>
                     </span>
                   </div>
@@ -104,11 +104,18 @@
                       </li>
                     </ul>
                   </div>
+                </li> -->
+                <li>
+                  <div class="o-hidden">
+                    <NuxtLink class="link" to="/">
+                      <span class="nm"></span>Home
+                    </NuxtLink>
+                  </div>
                 </li>
                 <li>
                   <div class="o-hidden">
                     <NuxtLink class="link" to="/about/about-light">
-                      <span class="nm">02.</span>About Us
+                      <span class="nm"></span>About Us
                     </NuxtLink>
                   </div>
                 </li>
@@ -116,7 +123,7 @@
                 <li>
                   <div class="o-hidden">
                     <NuxtLink class="link" to="/contact/contact-light">
-                      <span class="nm">05.</span>Contact
+                      <span class="nm"></span>Contact
                     </NuxtLink>
                   </div>
                 </li>
