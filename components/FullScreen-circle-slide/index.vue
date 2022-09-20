@@ -21,7 +21,7 @@
               <div class="caption ontop valign">
                 <div class="o-hidden">
                   <h1 data-swiper-parallax="-2000">
-                    <NuxtLink to="/project-details2/project-details2-dark">
+                    <NuxtLink to="https://brookiesbows.netlify.app/">
                       <div class="stroke">{{ slide.title.first }}</div>
                       <span>{{ slide.title.second }}</span>
                     </NuxtLink>
