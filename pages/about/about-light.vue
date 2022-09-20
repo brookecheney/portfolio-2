@@ -7,14 +7,14 @@
       </template>
     </PagesHeader>
     <AboutIntro />
-    <Services1 oStyle="4item" />
+    <!-- <Services1 oStyle="4item" />
     <VideoWithTestimonials />
     <SkillsCircle from="aboutPage" />
     <Team1 />
     <MinimalArea1 />
     <Clients1 theme="light" />
-    <CallToAction />
-    <Footer />
+    <CallToAction /> -->
+    <!-- <Footer /> -->
   </div>
 </template>
 
