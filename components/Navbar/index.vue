@@ -2,9 +2,10 @@
   <nav :ref="nr" class="navbar navbar-expand-lg change" :class="theme === 'light' ? 'light' : ''">
     <div class="container">
       <NuxtLink to="/" class="logo">
-        <img ref="lr" src="/img/logo-dark.png" v-if="theme === 'light'" alt="logo" />
+        <img ref="lr" src="/img/logo-dark.png" alt="logo" />
+        <!-- <img ref="lr" src="/img/logo-dark.png" v-if="theme === 'light'" alt="logo" />
         <img ref="lr" src="/img/logo-light.png" v-else-if="theme === 'themeD'" alt="logo" />
-        <img ref="lr" src="/img/logo-light.png" v-else alt="logo" />
+        <img ref="lr" src="/img/logo-light.png" alt="logo" /> -->
       </NuxtLink>
 
       <button class="navbar-toggler" type="button" @click="handleMobileDropdown" data-toggle="collapse"
