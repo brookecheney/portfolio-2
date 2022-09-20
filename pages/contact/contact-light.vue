@@ -4,7 +4,7 @@
     <ContactHeader />
     <div class="main-content">
       <ContactForm theme="light" />
-      <Footer hideBGCOLOR />
+      <!-- <Footer hideBGCOLOR /> -->
     </div>
   </div>
 </template>

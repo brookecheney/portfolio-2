@@ -53,16 +53,14 @@
             <h3 class="wow" data-splitting>{{ contentFormData.title }}</h3>
             <div class="item mb-40">
               <h5>
-                <NuxtLink to="#0">{{ contentFormData.email }}</NuxtLink>
+                <NuxtLink to="#0">Brooklynekc@gmail.com</NuxtLink>
               </h5>
-              <h5>{{ contentFormData.phone }}</h5>
+              <h5>801-835-0243</h5>
             </div>
-            <h3 class="wow" data-splitting>Visit Us.</h3>
+            <h3 class="wow" data-splitting>Location</h3>
             <div class="item">
               <h6>
-                {{ contentFormData.location.first }}
-                <br />
-                {{ contentFormData.location.second }}
+                Lehi, Utah
               </h6>
             </div>
             <div class="social mt-50">
