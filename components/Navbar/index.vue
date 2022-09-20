@@ -53,10 +53,8 @@
             <NuxtLink class="nav-link" to="/"> Home </NuxtLink>
           </li>
           <li class="nav-item">
-            <NuxtLink class="nav-link" to="/homepage/home4-dark"> About </NuxtLink>
+            <NuxtLink class="nav-link"  to="/about/about-light"> About </NuxtLink>
           </li>
-
-
           <li class="nav-item">
             <NuxtLink class="nav-link" to="/contact/contact-light">
               Contact

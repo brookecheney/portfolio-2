@@ -115,7 +115,7 @@
                 <li>
                   <div class="o-hidden">
                     <NuxtLink class="link" to="/about/about-light">
-                      <span class="nm"></span>About Us
+                      <span class="nm"></span>About 
                     </NuxtLink>
                   </div>
                 </li>
