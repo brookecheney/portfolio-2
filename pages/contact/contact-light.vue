@@ -14,7 +14,7 @@ export default {
   layout: "light",
   head() {
     return {
-      titleTemplate: '%s - Contact Light'
+      titleTemplate: 'Brooklyne Cheney'
     };
   },
   mounted() {

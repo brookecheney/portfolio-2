@@ -23,7 +23,7 @@ export default {
   layout: "light",
   head() {
     return {
-      titleTemplate: '%s - About Light'
+      titleTemplate: 'Brooklyne Cheney'
     };
   },
   mounted() {
