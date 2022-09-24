@@ -2,11 +2,11 @@
   "AboutIntro": {
     "description": "Auto imported from components/About-intro/index.vue"
   },
-  "AboutUs2": {
-    "description": "Auto imported from components/About-us2/index.vue"
-  },
   "AboutUs1": {
     "description": "Auto imported from components/About-us1/index.vue"
+  },
+  "AboutUs2": {
+    "description": "Auto imported from components/About-us2/index.vue"
   },
   "AboutUs3": {
     "description": "Auto imported from components/About-us3/index.vue"
@@ -38,11 +38,11 @@
   "Blogs2": {
     "description": "Auto imported from components/Blogs2/index.vue"
   },
-  "Blogs4": {
-    "description": "Auto imported from components/Blogs4/index.vue"
-  },
   "Blogs3": {
     "description": "Auto imported from components/Blogs3/index.vue"
+  },
+  "Blogs4": {
+    "description": "Auto imported from components/Blogs4/index.vue"
   },
   "CallToAction": {
     "description": "Auto imported from components/Call-to-action/index.vue"
@@ -98,11 +98,11 @@
   "Intro4": {
     "description": "Auto imported from components/Intro4/index.vue"
   },
-  "Intro5": {
-    "description": "Auto imported from components/Intro5/index.vue"
-  },
   "LatestNews": {
     "description": "Auto imported from components/Latest-news/index.vue"
+  },
+  "Intro5": {
+    "description": "Auto imported from components/Intro5/index.vue"
   },
   "Loading": {
     "description": "Auto imported from components/Loading/index.vue"
@@ -173,11 +173,11 @@
   "Services5": {
     "description": "Auto imported from components/Services5/index.vue"
   },
-  "Services6": {
-    "description": "Auto imported from components/Services6/index.vue"
-  },
   "ShowcasesFullScreen": {
     "description": "Auto imported from components/Showcases-full-screen/index.vue"
+  },
+  "Services6": {
+    "description": "Auto imported from components/Services6/index.vue"
   },
   "ShowcasesGrid": {
     "description": "Auto imported from components/Showcases-grid/index.vue"
@@ -200,11 +200,11 @@
   "Video": {
     "description": "Auto imported from components/Video/index.vue"
   },
-  "VideoWithTestimonials": {
-    "description": "Auto imported from components/Video-with-testimonials/index.vue"
-  },
   "WorksHeader": {
     "description": "Auto imported from components/Works-header/index.vue"
+  },
+  "VideoWithTestimonials": {
+    "description": "Auto imported from components/Video-with-testimonials/index.vue"
   },
   "WorksStyle1": {
     "description": "Auto imported from components/Works-style1/index.vue"

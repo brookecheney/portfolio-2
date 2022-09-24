@@ -1,6 +1,6 @@
 <template>
   <div>
-    <Navbar ref="navbar" theme="light" />
+    <NavbarFullMenu theme="light" />
     <ContactHeader />
     <div class="main-content">
       <ContactForm theme="light" />

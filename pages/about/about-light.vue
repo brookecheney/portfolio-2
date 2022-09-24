@@ -1,6 +1,6 @@
 <template>
   <div>
-    <Navbar ref="navbar" theme="light" />
+    <NavbarFullMenu theme="light" />
     <PagesHeader imageLink="/img/slid/about.jpg">
       <template v-slot:title>
         A Dedicated Creative Software Developer 
