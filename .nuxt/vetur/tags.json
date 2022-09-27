@@ -98,11 +98,11 @@
   "Intro4": {
     "description": "Auto imported from components/Intro4/index.vue"
   },
-  "LatestNews": {
-    "description": "Auto imported from components/Latest-news/index.vue"
-  },
   "Intro5": {
     "description": "Auto imported from components/Intro5/index.vue"
+  },
+  "LatestNews": {
+    "description": "Auto imported from components/Latest-news/index.vue"
   },
   "Loading": {
     "description": "Auto imported from components/Loading/index.vue"
@@ -113,11 +113,11 @@
   "MinimalArea2": {
     "description": "Auto imported from components/Minimal-area2/index.vue"
   },
-  "ModalVideo": {
-    "description": "Auto imported from components/Modal-video/index.vue"
-  },
   "MouseCursor": {
     "description": "Auto imported from components/Mouse-cursor/index.vue"
+  },
+  "ModalVideo": {
+    "description": "Auto imported from components/Modal-video/index.vue"
   },
   "Navbar": {
     "description": "Auto imported from components/Navbar/index.vue"
@@ -173,11 +173,11 @@
   "Services5": {
     "description": "Auto imported from components/Services5/index.vue"
   },
-  "ShowcasesFullScreen": {
-    "description": "Auto imported from components/Showcases-full-screen/index.vue"
-  },
   "Services6": {
     "description": "Auto imported from components/Services6/index.vue"
+  },
+  "ShowcasesFullScreen": {
+    "description": "Auto imported from components/Showcases-full-screen/index.vue"
   },
   "ShowcasesGrid": {
     "description": "Auto imported from components/Showcases-grid/index.vue"
@@ -200,11 +200,11 @@
   "Video": {
     "description": "Auto imported from components/Video/index.vue"
   },
-  "WorksHeader": {
-    "description": "Auto imported from components/Works-header/index.vue"
-  },
   "VideoWithTestimonials": {
     "description": "Auto imported from components/Video-with-testimonials/index.vue"
+  },
+  "WorksHeader": {
+    "description": "Auto imported from components/Works-header/index.vue"
   },
   "WorksStyle1": {
     "description": "Auto imported from components/Works-style1/index.vue"
@@ -221,11 +221,11 @@
   "Works3": {
     "description": "Auto imported from components/Works3/index.vue"
   },
-  "Works4": {
-    "description": "Auto imported from components/Works4/index.vue"
-  },
   "Works5": {
     "description": "Auto imported from components/Works5/index.vue"
+  },
+  "Works4": {
+    "description": "Auto imported from components/Works4/index.vue"
   },
   "Works6": {
     "description": "Auto imported from components/Works6/index.vue"

@@ -2,7 +2,6 @@
   <div>
     <MouseCursor />
     <ScrollToTop />
-    <Loading />
     <Nuxt />
   </div>
 </template>
